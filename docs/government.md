@@ -60,6 +60,16 @@ pageClass: routes
 
 </Route>
 
+### 基金项目管理平台
+
+<Route author="nczitzk" example="/bjsk/keti" path="/bjsk/keti/:id?" :paramsDesc="['分类 id，见下表，默认为通知公告']">
+
+| 通知公告                         | 资料下载                         |
+| -------------------------------- | -------------------------------- |
+| 402881027cbb8c6f017cbb8e17710002 | 2c908aee818e04f401818e08645c0002 |
+
+</Route>
+
 ## 北京市保障房中心有限公司
 
 ### 北京市共有产权住房租赁服务平台
@@ -143,6 +153,12 @@ pageClass: routes
 | lzyj     | gsgg     |
 
 </Route>
+
+### 人力社保局
+
+#### 人事考试通知
+
+<Route author="Mai19930513" example="/gov/chongqing/rsks" path="/gov/chongqing/rsks" radar="1"/>
 
 ## 德阳市人民政府
 
@@ -717,6 +733,12 @@ pageClass: routes
 ### 年度信息自由法报告
 
 <Route author="nczitzk" example="/cia/foia-annual-report" path="/cia/foia-annual-report"/>
+
+## 南京鼓楼医院
+
+### 员工版教育培训
+
+<Route author="real-jiakai" example="/njglyy/ygbjypx" path="/njglyy/ygbjypx" radar="1" />
 
 ## 南京市人民政府
 
