@@ -5127,6 +5127,9 @@
     "/tingshuitz/yangjiang": [
         "ciaranchen"
     ],
+    "/tingtingfm/program/:programId": [
+        "TonyRL"
+    ],
     "/tisi/latest": [
         "Fatpandac"
     ],
@@ -5493,6 +5496,9 @@
     ],
     "/weekendhk/": [
         "TonyRL"
+    ],
+    "/weibo/group/:gid/:gname?/:routeParams?": [
+        "monologconnor"
     ],
     "/weibo/keyword/:keyword/:routeParams?": [
         "DIYgod"
